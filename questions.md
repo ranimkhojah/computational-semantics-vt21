@@ -6,6 +6,9 @@ Two members of the group believed that "the dog" means "exactly one [known] dog"
 Whereas the two other members believed that "the dog" that there is a specific dog that no man gives a bone to, but it is still possible that no man gives a bone to another dog as well. Therefore, they believe that the grammar of 'the' and 'a' should be the same. i.e., `Det[SEM=<\P Q.exists x.(P(x) & Q(x))>] -> 'a' | 'the'
 `.
 
+
+In addition, for the statements 3, 4 and 5, we get the answer without β-reduction, in other words, λx and λQ are included and the statement is not simplified. We don't know what exactly is causing it and how it can be fixed.
+
 ## Alternative Solutions
 
 #### Predicate logic without quantifiers
