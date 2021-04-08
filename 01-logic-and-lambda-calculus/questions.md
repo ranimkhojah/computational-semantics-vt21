@@ -24,5 +24,6 @@ Therefore, we decided to go with the latter `∃x. ∀y. (write(Alex, y) ∧ mus
 
 ## References
 [1] Ludlow, P. (1995). The logical form of determiners. Journal of Philosophical Logic, 24(1), 47-69.
+
 [2] Partee, B. (2005). Lecture 2 . Lambda abstraction , NP semantics , and a Fragment of English. MGU.
 
