@@ -1,6 +1,26 @@
 # Group Work Guidelines
 
-## Pre-requisites
+This repository will be updated once a new assignment is released; thus, try to keep track of this repository as much as you can.
+
+Each group needs to define a way to work on the assignments together; we decided to let you choose how you will organise your working process. We suggest using GitHub and creating a private repository for the group. 
+
+**Help with the assignments:** if you choose to work on GitHub, you should make us (Simon, Adam, Nikolai) co-admins of your group repository. This way, we would be able to help you with assignment-related issues here, on GitHub. If you use any other platform for working as a group, please ensure that we can access your work.
+
+You would eventually copy each assignment from the current repository to your group repository, work on it, and then submit the final result to the Canvas course page.
+**Important:** the group solution needs to be submitted as a modified .ipynb file to the Canvas page of the corresponding assignment.
+We will grade and comment on the file version that you uploaded last to the Canvas assignment's page.
+Please include the group's name and assignment number in the submission's title, e.g. `assignment-01-group-A.ipynb`.
+If you have multiple files to upload (for example, you changed something un `utils.py`), put them all in a single .zip file, e.g. `assignment-01-group-A.zip`.
+
+In the end, you are free to choose *how* you are going to work on the assignment file as a group.
+Just make sure that (i) course organisers could access your work, (ii) you can produce a final .ipynb file that you can submit to the Canvas course webpage.
+
+**Important:** also, please upload your group's .ipynb file by the morning of the day when we have a class on this assignment. It would be nice for TAs (Adam, Nikolai) to look at your work-in-progress before the actual class on this assignment. To do this, simply upload your current state of the submission to the Canvas assignment page. You have an unlimited number of submissions before the actual submission deadline. It means that you could re-upload a new version after the class on the assignment with updated results.
+
+For any questions, please contact us through Discord or e-mail.
+
+---
+## Suggestions on how to organize your workflow:
 
 1. **For every student**: make sure you have a GitHub account.
 Follow the steps below if you don't have one:
@@ -179,3 +199,13 @@ The general idea is that members in each group would communicate as follows:
 - There might be more than one solution for each question.
 - After everyone found and ran an answer for each question, start working on the final group submission in a separate notebook, e.g. ./01-logic-and-lambda-calculus/assignment/logic-and-lambda-calculus.ipynb for the first assignment
 - Make a pull request and add all necessary information.
+
+## Discussions in the class
+
+1.5 hours for a class might sound like a long time, but it normally goes very quickly, especially if we would like every group to be heard. Therefore, to optimise a discussion, 
+
+  -  Before the class, and in addition to submitting the assignment, each group should post their questions and in particular non-working solutions that they would like to discuss on Canvas Discussions. There will be a discussion thread for each assignment (linked in Modules).
+
+  - Sharing non-working solutions is not only allowed but also encouraged!
+
+  - We will read your posts before the class (and you should read them too) and try to structure them to topics around which we can focus our discussion later, starting from the group who made that comment.
